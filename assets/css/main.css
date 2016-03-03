@@ -83,7 +83,7 @@ i {
   margin-top: 22px;
   font-size: 10px;
   color: #fff;
-  font-weight: 100px; }
+  font-weight: 100; }
 .footer-links a {
   text-decoration: none;
   color: #fff; }
@@ -169,7 +169,7 @@ i {
 
   .contact-title {
     text-align: center;
-    font-size: 18;
+    font-size: 18px;
     font-weight: 700; }
 
   .contact-body {
