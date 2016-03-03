@@ -212,6 +212,13 @@ i {
       padding-left: 0px; }
       .mobile-footer-links ul li {
         display: inline-block;
-        color: #E86024; } }
+        color: #E86024; }
+
+  .mobile-links li {
+    padding-right: 3px;
+    padding-left: 3px;
+    border-right: 1px solid rgba(200, 200, 200, 0.6); }
+  .mobile-links li:last-child {
+    border-right: none; } }
 
 /*# sourceMappingURL=main.css.map */
